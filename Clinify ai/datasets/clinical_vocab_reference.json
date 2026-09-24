@@ -1,0 +1,86 @@
+{
+  "diseases": {
+    "diabetes": {
+      "display_name": "Diabetes Mellitus",
+      "simple_explanation": "Diabetes is a health condition where blood sugar levels are higher than normal because your body cannot make or properly use insulin.",
+      "pathology": "Endocrine / glucose regulation disorder",
+      "warning_signs": [
+        "Unusually high blood sugar readings (e.g. over 250 mg/dL)",
+        "Symptoms of low blood sugar like shakiness, cold sweating, or dizziness",
+        "Slow-healing cuts, sores, or red patches on your skin or feet"
+      ],
+      "lifestyle_context": "Following balanced meal timing, staying physically active, and testing blood sugar as instructed help keep your body healthy."
+    },
+    "hypertension": {
+      "display_name": "Hypertension (High Blood Pressure)",
+      "simple_explanation": "High blood pressure means the force of blood pushing against the walls of your blood vessels is higher than recommended, which makes your heart work harder.",
+      "pathology": "Cardiovascular / vascular pressure elevation",
+      "warning_signs": [
+        "Severe, sudden headaches or dizziness",
+        "Blurry vision or spots in front of your eyes",
+        "Chest tightness, shortness of breath, or nosebleeds"
+      ],
+      "lifestyle_context": "Reducing excess dietary salt, staying hydrated, getting restful sleep, and taking prescribed blood pressure medicine protect your heart and blood vessels."
+    },
+    "asthma": {
+      "display_name": "Asthma",
+      "simple_explanation": "Asthma is a lung condition where airways become inflamed, swollen, and narrowed, making it harder to breathe and causing wheezing or coughing.",
+      "pathology": "Respiratory / reversible airway bronchoconstriction",
+      "warning_signs": [
+        "Coughing or wheezing that does not improve 20 minutes after using rescue medicine",
+        "Ribs or neck muscles pulling in deeply while trying to breathe",
+        "Difficulty speaking full sentences without pausing for breath"
+      ],
+      "lifestyle_context": "Staying away from known breathing triggers like tobacco smoke, cold dry air, or dust, and using your prescribed inhalers help keep your lungs clear."
+    },
+    "migraine": {
+      "display_name": "Migraine Headache",
+      "simple_explanation": "A migraine is a neurological headache condition that causes intense throbbing or pulsing pain, usually on one side of the head, and often comes with nausea or sensitivity to light and sound.",
+      "pathology": "Neurological / neurovascular sensory sensitivity",
+      "warning_signs": [
+        "A sudden, explosive 'thunderclap' headache worse than any you have ever had",
+        "Headache accompanied by high fever, stiff neck, confusion, or difficulty speaking",
+        "Sudden weakness, numbness on one side of your body, or sudden loss of vision"
+      ],
+      "lifestyle_context": "Resting in a quiet, dark room, maintaining regular sleep habits, staying hydrated, and avoiding personal headache triggers support your comfort."
+    },
+    "pneumonia": {
+      "display_name": "Pneumonia",
+      "simple_explanation": "Pneumonia is an infection in one or both lungs that causes the tiny air sacs to become inflamed and fill with fluid or mucus, leading to coughing, fever, and breathing difficulty.",
+      "pathology": "Pulmonary / lower respiratory infectious consolidation",
+      "warning_signs": [
+        "Shortness of breath that gets worse even while you are resting in bed",
+        "High fever that will not come down or returning chills",
+        "Coughing up rust-colored or blood-tinged phlegm, or lips turning bluish"
+      ],
+      "lifestyle_context": "Getting plenty of bed rest, drinking warm fluids, and completing all prescribed medication allow your lungs to heal completely."
+    },
+    "bronchitis": {
+      "display_name": "Acute Bronchitis",
+      "simple_explanation": "Bronchitis is an inflammation of the lining of your bronchial breathing tubes, which carry air to and from your lungs, leading to chest mucus and a persistent cough.",
+      "pathology": "Respiratory / bronchial mucosa inflammation",
+      "warning_signs": [
+        "Coughing that lasts longer than 3 weeks or brings up blood",
+        "Fever over 101°F or difficulty catching your breath",
+        "Wheezing that does not clear with resting"
+      ],
+      "lifestyle_context": "Drinking warm teas and water, resting your voice and body, and avoiding airborne irritants like cigarette smoke help your airway passages recover."
+    },
+    "heart failure": {
+      "display_name": "Congestive Heart Failure (CHF)",
+      "simple_explanation": "Heart failure means your heart muscle is not pumping blood as strongly as it should, which can cause fluid to back up into your lungs, legs, and ankles.",
+      "pathology": "Cardiovascular / impaired ventricular pump function",
+      "warning_signs": [
+        "Rapid weight gain of 3 or more pounds in 1 day or 5 pounds in 1 week",
+        "Worsening swelling in your feet, ankles, legs, or abdomen",
+        "Waking up gasping for air at night or needing extra pillows to breathe while lying down"
+      ],
+      "lifestyle_context": "Weighing yourself every morning, limiting total daily fluids as directed, and keeping dietary sodium low prevent fluid overload."
+    }
+  },
+  "metadata": {
+    "version": "2.1.0",
+    "purpose": "Source-grounded clinical layperson explanations for CareTranslate AI",
+    "disclaimer": "AI-generated patient-friendly information must be reviewed and approved by a clinician before being provided to the patient."
+  }
+}
